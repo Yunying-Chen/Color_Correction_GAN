@@ -1,4 +1,4 @@
-## BBC_class
+## Color Correction GAN
 
 ### Intro
 This is a color correction model by using Gan and Conditional Gan.       
